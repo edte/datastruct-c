@@ -1,0 +1,3 @@
+/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/c_test.dir
