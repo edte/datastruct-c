@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edte/CLionProjects/datastructure-c/main.c
+./string/string.h
+/home/edte/CLionProjects/datastructure-c/string/string.h
+stdio.h
+-
+
+/home/edte/CLionProjects/datastructure-c/string/string.h
+
