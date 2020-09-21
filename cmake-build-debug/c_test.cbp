@@ -76,6 +76,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/edte/CLionProjects/datastructure-c/binary-tree-linked/tree.c">
+			<Option target="c_test"/>
+		</Unit>
+		<Unit filename="/home/edte/CLionProjects/datastructure-c/binary-tree-linked/tree.h">
+			<Option target="c_test"/>
+		</Unit>
+		<Unit filename="/home/edte/CLionProjects/datastructure-c/binary-tree-sequence/tree.c">
+			<Option target="c_test"/>
+		</Unit>
+		<Unit filename="/home/edte/CLionProjects/datastructure-c/binary-tree-sequence/tree.h">
+			<Option target="c_test"/>
+		</Unit>
 		<Unit filename="/home/edte/CLionProjects/datastructure-c/main.c">
 			<Option target="c_test"/>
 		</Unit>

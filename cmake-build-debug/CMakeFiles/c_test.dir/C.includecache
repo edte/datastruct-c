@@ -12,5 +12,15 @@
 stdio.h
 -
 
+/home/edte/CLionProjects/datastructure-c/string/string.c
+stdlib.h
+-
+stdio.h
+-
+limits.h
+-
+
 /home/edte/CLionProjects/datastructure-c/string/string.h
+
+/home/edte/CLionProjects/datastructure-c/tree/tree.c
 

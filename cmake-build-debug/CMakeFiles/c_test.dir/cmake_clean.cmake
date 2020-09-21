@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/c_test.dir/binary-tree-linked/tree.c.o"
+  "CMakeFiles/c_test.dir/binary-tree-sequence/tree.c.o"
   "CMakeFiles/c_test.dir/main.c.o"
   "CMakeFiles/c_test.dir/string/string.c.o"
   "c_test"

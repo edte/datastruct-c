@@ -6,3 +6,5 @@ CMakeFiles/c_test.dir/main.c.o: ../string/string.h
 
 CMakeFiles/c_test.dir/string/string.c.o: ../string/string.c
 
+CMakeFiles/c_test.dir/tree/tree.c.o: ../tree/tree.c
+

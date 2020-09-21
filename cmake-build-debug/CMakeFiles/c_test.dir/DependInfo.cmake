@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/edte/CLionProjects/datastructure-c/binary-tree-linked/tree.c" "/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/c_test.dir/binary-tree-linked/tree.c.o"
+  "/home/edte/CLionProjects/datastructure-c/binary-tree-sequence/tree.c" "/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/c_test.dir/binary-tree-sequence/tree.c.o"
   "/home/edte/CLionProjects/datastructure-c/main.c" "/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/c_test.dir/main.c.o"
   "/home/edte/CLionProjects/datastructure-c/string/string.c" "/home/edte/CLionProjects/datastructure-c/cmake-build-debug/CMakeFiles/c_test.dir/string/string.c.o"
   )
